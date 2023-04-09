@@ -18,10 +18,10 @@ The Mybookseller project is an application on a book sales platform where the us
 
 ## Screen
 
-- Form Screen
+# Form Screen
 ![form](img/form.PNG)
   
-- Type Screen
+# Type Screen
 ![type](img/type.png)
 
 ## Example
