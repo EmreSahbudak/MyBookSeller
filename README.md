@@ -16,7 +16,7 @@ The Mybookseller project is an application on a book sales platform where the us
 - PostgreSQL
 - HTML&CSS
 
-![logo](form.png)
+![form](img/form.png)
   
 ## Example
 
