@@ -15,14 +15,14 @@ The Mybookseller project is an application on a book sales platform where the us
 - Monolithic Architecture
 - PostgreSQL
 - HTML&CSS
-- 
+
+## Screen
+
 **Form Screen**
 ![form](img/form.PNG)
   
 **Type Screen**
 ![type](img/type.png)
-
-
 
 ## Example
 
