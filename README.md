@@ -16,11 +16,9 @@ The Mybookseller project is an application on a book sales platform where the us
 - PostgreSQL
 - HTML&CSS
 
-
-
-
+![logo](form.png)
   
-## Kullanım/Örnekler
+## Example
 
 -Sample code for data extraction using join in different tables with Native SQL
 
@@ -29,7 +27,7 @@ The Mybookseller project is an application on a book sales platform where the us
             "inner join tblbookauthor as ba on b.book_id=ba.book_id\n" +
             "inner join tblauthor as a on a.author_id=ba.author_id\n" +
             "where b.book_name=?1", nativeQuery = true)
-    List<JoinBookAuthor> enteredBookNameRequestAuthorNameStartingWith(String bookName);
+    List<JoinBookAuthor> enteredBookNameAuthorName(String bookName);
 ```
 
   
